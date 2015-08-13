@@ -41,8 +41,8 @@ void print_permutation(int n, int A[], int cur)
 }
 int main()
 {
-  int n, A[MAXN];
-  scanf("%d",&n);
-  print_permutation(n, A, 0);
-  return 0;
+	int n, A[MAXN];
+	scanf("%d",&n);
+	print_permutation(n, A, 0);
+	return 0;
 }
