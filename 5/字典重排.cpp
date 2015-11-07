@@ -6,6 +6,7 @@
 * 组成。注意，字典中的单词不一定按字典序排列。
 * 样例输入:
 * tarp given score refund only trap work earn courese pepper part ****
+* resco nfudre aptr sett oresuc
 * 样例输出:
 * score
 * refund
